@@ -1,0 +1,23 @@
+version: '3.7'
+services:
+  dev_container:
+    # image: jekyll/jekyll
+    # # Alpine
+    # image: bretfisher/jekyll-serve:alpine
+    # Debian
+    # image: bretfisher/jekyll-serve:latest
+    build:
+      # context: where should docker-compose look for the Dockerfile?
+      # i.e. either a path to a directory containing a Dockerfile, or a url to a git repository
+      context: ..
+      dockerfile: Dockerfile.dev
+    volumes:
+      - ..:/workspace
+      # - ..:/srv/jekyll
+      - ..:/site
+    # Forwards port 0.0.0.0:4001 from the Docker host (e.g. Windows desktop) 
+    # to the dev environment container's port 4000
+    ports:
+      - "0.0.0.0:4001:4000"
+    # Overrides default command so things don't shut down after the process ends.
+    command: ["sleep", "infinity"]
