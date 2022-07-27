@@ -62,7 +62,7 @@ Here's something exciting: Notice that in year 11, your investment return (your 
 
 By the way, there's a reason I refer to them as companies and not stocks or shares. I'll have much more to say about this later, but in short, referring to them as companies avoids any confusion or intimidation you may have about the stock market. My number one investing tip of all time is: if no-one else in the world wanted your company, would you still want it? In other words, if you owned 100% of the company, would you be happy with that company's current and future profits? Thinking of them as companies (which they ARE!!) and not "stocks" (which conjures up images of stock price charts going up and down) will give you a HUGE advantage in your investing. Similary, I rightly call it "investing", not "trading"... We buy companies and they make us money. Their profits are our profits. We don't buy and sell continuously, trying to "time the market"... We invest.
 
-Hopefully that's enough to get you thinking, dreaming, excited. I hope I've shown you that getting rich (i.e. getting your first million) is actually pretty simple when you break it down. Anyone with a little work ethic and some patience and discipline can get there, and I hope this inspires you on your own path to financial independence, the ultimate freedom in this world. 😊
+Hopefully that's enough to get you thinking, dreaming, excited. I hope I've shown you that getting rich (i.e. getting your first million) is actually pretty simple when you break it down. Anyone with a little work ethic and some patience and discipline can get there, and I hope this inspires you on your own path to financial independence--the ultimate freedom in this world. 😊
 
 Cheers,<br>
 Sean
