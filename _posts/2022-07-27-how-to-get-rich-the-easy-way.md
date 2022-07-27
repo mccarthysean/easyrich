@@ -37,7 +37,7 @@ This one is pretty self-explanatory, isn't it? You want to aim for about $100,00
 
 This one requires the most discipline, of course. It's easier if you're in your twenties and you haven't gotten used to having lots of money yet. Maybe you've been enjoying yourself in college and living frugally. See, you can enjoy your life without spending a fortune. You don't have kids yet, and no one expects you to be rich or have fancy vehicles at this stage, so it's the best decade to get started. 
 
-Basically, simple math, we're trying to save $50,000 a year for 10-15 years. If you can do this for 10 years, you'll have $500,000 even if you just put it in your chequing account at the bank and leave it there. You're halfway to a million. 15 years of this and you're at $750,000.
+Basically, simple math, we're trying to save $50,000 a year for 10-15 years. If you can do this for 10 years, you'll have $500,000 even if you just put it in your chequing account at the bank and leave it there. You're halfway to a million. 15 years of this and you're at $750,000 without even investing your savings.
 
 You can do it. Pay yourself first. Set monthly goals. The easiest way is to put all your expenses on your credit card, and try to keep that bill below $2,000 a month, and (of course!) pay it off in full at the end of every month. If you have $2,000 in fixed expenses and a $2,000 credit card bill, that's $4,000 a month or $48,000 a year. If you make $100,000 after tax, that's $52,000 in savings every year. 
 
@@ -49,9 +49,9 @@ On this site, I'll be recommending buying companies, not real estate, but each h
 
 Let's keep it conservative and aim for a 7% real rate of return (i.e. after subtracting inflation). In normal times, that's about 10% before subtracting inflation of 3%. I'll have more to say about inflation in the future, but for now let's do some math and see how we can turn your savings into your first million. Simple finance.
 
-{% include image-caption.html imageurl="/assets/images/posts/2022/13-years-to-one-million-dollars.png#wide" title="13 years to your first million" caption="13 years to your first million" %}
+{% include image-caption.html imageurl="/assets/images/posts/2022/12-years-to-one-million-dollars.png#wide" title="12 years to your first million" caption="12 years to your first million" %}
 
-The above image shows very simply how you can **turn your savings into $1 million in 13 years**, if you save $48,000 a year and earn a 7% rate of return. It's really that simple, in terms of the math. Each year you save $48,000, and use that cash to buy companies; then those companies earn you a 7% rate of return. Over the long term, that's a realistic rate of return for a diversified portfolio of companies (i.e. stocks or shares on the stock exchange). 
+The above image shows very simply how you can **turn your savings into $1 million in 12 years**, if you save $50,000 a year and earn a 7% rate of return. It's really that simple, in terms of the math. Each year you save $50,000, and use that cash to buy companies; then those companies earn you a 7% rate of return. Over the long term, that's a realistic rate of return for a diversified portfolio of companies (i.e. stocks or shares on the stock exchange). 
 
 If you want to download the simple model (Excel spreadsheet) above, [here's the link to do so][1].
 
