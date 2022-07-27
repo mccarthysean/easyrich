@@ -14,9 +14,9 @@ title: Home
 <!-- Featured-->
 <div id="featured-posts" class="featured-posts">
     {% for post in site.posts %}
-    {% if post.featured == true %}
-    {% include featuredbox.html %}
-    {% endif %}
+        {% if post.featured == true %}
+            {% include featuredbox.html %}
+        {% endif %}
     {% endfor %}
 </div>
 
