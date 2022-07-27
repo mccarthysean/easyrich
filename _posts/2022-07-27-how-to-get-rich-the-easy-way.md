@@ -61,5 +61,5 @@ By the way, there's a reason I refer to them as companies and not stocks or shar
 
 Hopefully that's enough to get you thinking, dreaming, excited. I hope I've shown you that getting rich (i.e. getting your first million) is actually pretty simple when you break it down. Anyone with a little work ethic and some patience and discipline can get there, and I hope this inspires you on your own path to financial independence, the ultimate freedom in this world. 😊
 
-Cheers,
+Cheers,<br>
 Sean
