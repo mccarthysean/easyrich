@@ -17,7 +17,7 @@ This is the first and most important tutorial on this site. It's the one where I
 1. Save half your money for 10-15 years
 1. Buy good companies at great prices to start growing your savings
 
-In about 15 years, you should have your first million. 
+In 12-15 years, you should have your first million. 
 
 There, told you I'd keep it simple. It's really not more complicated than that. As a finance/investing expert, I can assure you this is the easiest and most straightforward way of getting rich. Heck, it's possible you've got a few neighbours, friends, family members, colleagues, or acquaintances who have already done this.
 
