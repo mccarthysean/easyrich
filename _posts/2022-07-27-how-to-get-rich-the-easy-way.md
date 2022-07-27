@@ -35,7 +35,7 @@ This one is pretty self-explanatory, isn't it? You want to aim for about $100,00
 
 ## 2. Save Half Your Money
 
-This one requires the most discipline, of course. It's easier if you're in your twenties and you haven't gotten used to having lots of money yet. Maybe you've been enjoying yourself in college and living frugally. See, you can enjoy your life without spending a fortune. You don't have kids yet, and no-one expects you to be rich or have fancy vehicles at this stage, so it's the best decade to get started. 
+This one requires the most discipline, of course. It's easier if you're in your twenties and you haven't gotten used to having lots of money yet. Maybe you've been enjoying yourself in college and living frugally. See, you can enjoy your life without spending a fortune. You don't have kids yet, and no one expects you to be rich or have fancy vehicles at this stage, so it's the best decade to get started. 
 
 Basically, simple math, we're trying to save $50,000 a year for 10-15 years. If you can do this for 10 years, you'll have $500,000 even if you just put it in your chequing account at the bank and leave it there. You're halfway to a million. 15 years of this and you're at $750,000.
 
