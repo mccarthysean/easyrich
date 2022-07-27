@@ -6,6 +6,8 @@ logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image: 'authorimage.jpg'
+  greetings: "The purpose of this site is to share information on how to get rich, the easiest way possible.
+            Welcome. I hope you learn something that helps you achieve your financial goals 👍"
 favicon: 'assets/images/favicon.ico'
 baseurl: 
 production_url: https://easyrich.info/
