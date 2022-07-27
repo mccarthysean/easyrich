@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'How to Get Rich the Easy Way'
+description: "The simplest and most reliable way to get rich. Nothing fancy. Just solid financial advice on how to make your first million."
 tags: [save money, invest]
 featured_image_thumbnail:
 featured_image: assets/images/posts/2022/plant-in-coins-micheile-dot-com-SoT4-mZhyhE-unsplash.jpg
@@ -24,7 +25,7 @@ There, told you I'd keep it simple. It's really not more complicated than that. 
 
 I created this site to share information with my friends and family, and anyone else who's interested in learning how to get rich the easy way. It's my way of giving back. I want nothing in return, but I'd love to read your comments, feedback, and stories. 
 
-Over the years, in talking with regular folks, I've heard a lot of conflicting, confusing, and misleading thoughts and ideas on how to get rich. Lately, the one I've heard the most, when I mention "investing" to someone new, is "are you talking about Bitcoin?"... Gosh, I've heard that far too often lately. No, I'm absolutely not talking about Bitcoin. 
+Over the years, in talking with regular folks, I've heard a lot of conflicting, confusing, and misleading thoughts and ideas on how to get rich. Lately, the one I've heard the most when I mention "investing" to someone new, is, "are you talking about Bitcoin?"... Gosh, I've heard that far too often lately. No, I'm absolutely not talking about Bitcoin. 
 
 I've also heard lots of negative thoughts about how the game is rigged against ordinary people. I can assure you it's not. I hope to share how simple it is to save some money, invest it (i.e. buy yourself some companies to generate some passive earnings), and watch it grow. Anyone can open a brokerage account and buy any companies they want. Keep buying, and with a little patience and discipline, one day you'll be rich too.
 
