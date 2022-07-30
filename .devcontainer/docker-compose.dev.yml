@@ -15,9 +15,9 @@ services:
       - ..:/workspace
       # - ..:/srv/jekyll
       - ..:/site
-    # Forwards port 0.0.0.0:4001 from the Docker host (e.g. Windows desktop) 
+    # Forwards port 127.0.0.1:4001 from the Docker host (e.g. Windows desktop) 
     # to the dev environment container's port 4000
     ports:
-      - "0.0.0.0:4001:4000"
+      - "127.0.0.1:4001:4000"
     # Overrides default command so things don't shut down after the process ends.
     command: ["sleep", "infinity"]
