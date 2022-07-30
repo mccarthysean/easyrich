@@ -21,14 +21,6 @@ In 12-15 years, you should have your first million.
 
 There, told you I'd keep it simple. It's really not more complicated than that. As a finance/investing expert, I can assure you this is the easiest and most straightforward way of getting rich. Heck, it's possible you've got a few neighbours, friends, family members, colleagues, or acquaintances who have already done this.
 
-## Purpose of this Site
-
-I created this site to share information with my friends and family, and anyone else who's interested in learning how to get rich the easy way. It's my way of giving back. I want nothing in return, but I'd love to read your comments, feedback, and stories. 
-
-Over the years, in talking with regular folks, I've heard a lot of conflicting, confusing, and misleading thoughts and ideas on how to get rich. Lately, the one I've heard the most when I mention "investing" to someone new, is, "are you talking about Bitcoin?"... Gosh, I've heard that far too often lately. No, I'm absolutely not talking about Bitcoin. 
-
-I've also heard lots of negative thoughts about how the game is rigged against ordinary people. I can assure you it's not. I hope to share how simple it is to save some money, invest it (i.e. buy yourself some companies to generate some passive earnings), and watch it grow. Anyone can open a brokerage account and buy any companies they want. Keep buying, and with a little patience and discipline, one day you'll be rich too.
-
 ## 1. Get a Good-Paying Job
 
 This one is pretty self-explanatory, isn't it? You want to aim for about $100,000/year in after-tax earnings, ideally, but it's all relative. In the West, there are many careers that can get you this kind of money, especially in the STEM fields (science, technology, engineering, and math). Healthcare, energy, business, agriculture... If you're willing to work hard and learn, you can make twice that amount or more in oil and gas, without even a college education. I've got plenty of friends from small-town Saskatchewan who have gone that route. 
@@ -66,3 +58,5 @@ Hopefully that's enough to get you thinking, dreaming, excited. I hope I've show
 
 Cheers,<br>
 Sean
+
+{% include legal-disclaimer.html %}
