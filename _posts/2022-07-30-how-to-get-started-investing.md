@@ -15,11 +15,11 @@ This article will focus on how to open a brokerage account, so you can start inv
 
 As a refresher, here are the three steps to get your first million:
 
-1. Get a good-paying job
-1. Save half your money for 10-15 years
-1. Buy good companies at great prices to start growing your savings
-
-*In 12-15 years, you should have your first million*
+> 1. Get a good-paying job
+> 1. Save half your money for 10-15 years
+> 1. Buy good companies at great prices to start growing your savings
+>
+> *In 12-15 years, you should have your first million*
 
 This article focuses on the last step--investing--after you've secured a good income, and you've begun saving. How exactly do you get started investing?
 
